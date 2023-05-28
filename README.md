@@ -1,6 +1,8 @@
-# Starter Kit
+# Graph
 
 Webpack 5 starter kit w/ esbuild-loader.
+
+=> Test graph
 
 ```
 $ mkdir sk

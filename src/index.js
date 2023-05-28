@@ -1,3 +1,5 @@
 import "./css/app.css"
 
-console.log("It works!")
+import mermaid from "mermaid"
+
+mermaid.initialize({ startOnLoad: true })
